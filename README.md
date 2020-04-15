@@ -1,2 +1,4 @@
-# SpringHibernateMaven-Mahasiswa1
- Aplikasi CRUD Mahasiswa sederhana menggunakan Spring + Hibernate + Maven
+SpringHibernateMaven
+====================
+
+Aplikasi CRUD Mahasiswa menggunakan Spring + Hibernate + Maven
